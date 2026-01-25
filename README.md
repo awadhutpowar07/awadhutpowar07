@@ -1,6 +1,6 @@
 # Hi there, I'm Awadhut Powar 👋
 
-### A passionate data analyst from Kolhapur 
+### A passionate Data Analyst from Kolhapur 
 
 * 🔭 I’m currently working on Github portfolio projects in SQL, Python, Excel VBA, and Power BI.
 * 🌱 I’m currently learning Python, SQL, MS Excel, Power Query, and Power BI to transition into a Data Analytics role.
