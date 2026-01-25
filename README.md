@@ -7,7 +7,7 @@
 * 👯 I’m looking to collaborate on ...
 * 💬 Ask me about data analytics
 * 📫 How to reach me: [awadhutpowar07@gmail.com](mailto:awadhutpowar07@gmail.com)
-* ⚡ Fun fact: ...
+* ⚡ Fun fact: "Spent years telling stories to sell products; now I let the data tell its own story through dashboards and patterns."
 
 ---
 
