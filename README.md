@@ -30,9 +30,9 @@ Here are a few technologies I've been working with recently:
 
 ### 🏅 Certifications:
 
-https://courses-in.skillup.online/programcertificates/461e59304fac451280e8b88ae1024b0c
-https://courses.myclass.skillup.online/certificates/8b91f002709b461a852b2afa00b20393
-https://certx.in/certificate/27431ebc-ac17-43c8-9713-f5b20ad95b991006430
+[Microsoft TechMaster Certificate in Data Analystics](https://courses-in.skillup.online/programcertificates/461e59304fac451280e8b88ae1024b0c)
+[IBM Big Data 101](https://courses.myclass.skillup.online/certificates/8b91f002709b461a852b2afa00b20393)
+[3hr Python Workshop Certificate Be10x](https://certx.in/certificate/27431ebc-ac17-43c8-9713-f5b20ad95b991006430)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=awadhutpowar07&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
