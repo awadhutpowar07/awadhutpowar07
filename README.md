@@ -26,6 +26,14 @@ Here are a few technologies I've been working with recently:
 
 ![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) ([https://www.linkedin.com/in/awadhut-powar-ba0a30332/])
 
+---
+
+### 🏅 Certifications:
+
+https://courses-in.skillup.online/programcertificates/461e59304fac451280e8b88ae1024b0c
+https://courses.myclass.skillup.online/certificates/8b91f002709b461a852b2afa00b20393
+https://certx.in/certificate/27431ebc-ac17-43c8-9713-f5b20ad95b991006430
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=awadhutpowar07&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=awadhutpowar07&theme=default&hide_border=false)<br/>
